@@ -1,16 +1,18 @@
-## Hi there 👋
+# Sami Adam Moughli
+IT & Cyber Security Enthusiast · CTF Player · Dual Study Applicant DHBW Mannheim
+## About Me
 
-<!--
-**SamiAdamMoughli/SamiAdamMoughli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Focused on Cloud Security & Offensive Security
+🎯 AWS Cloud Practitioner exam target: May 2026
+🧪 Active CTF player — CODE WHITE Applicants Challenge (2/2 solved)
+📚 TryHackMe Pre-Security Path completed
+🎓 Applying for dual study Informatik/Cyber Security — DHBW Mannheim October 2026
 
-Here are some ideas to get you started:
+## Skills
+Linux · Windows · Networking · TCP/IP · DNS · Python · REST APIs · VirtualBox · GitHub
+## CTF Writeups
+→ CTF-Writeups Repository
+## Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TryHackMe: tryhackme.com/p/samiadammoughli
+Email: samiadammoughli@proton.me
