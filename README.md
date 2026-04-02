@@ -2,11 +2,11 @@
 IT & Cyber Security Enthusiast · CTF Player · Dual Study Applicant DHBW Mannheim
 ## About Me
 
-🔐 Focused on Cloud Security & Offensive Security
-🎯 AWS Cloud Practitioner exam target: May 2026
-🧪 Active CTF player — CODE WHITE Applicants Challenge (2/X solved)
-📚 TryHackMe Pre-Security Path completed
-🎓 Applying for dual study Informatik/Cyber Security — DHBW Mannheim October 2026
+- 🔐 Focused on Cloud Security & Offensive Security
+- 🎯 AWS Cloud Practitioner exam target: May 2026
+- 🧪 Active CTF player — CODE WHITE Applicants Challenge (2/X solved)
+- 📚 TryHackMe Pre-Security Path completed
+- 🎓 Applying for dual study Informatik/Cyber Security — DHBW Mannheim October 2026
 
 ## Skills
 Linux · Windows · Networking · TCP/IP · DNS · Python · REST APIs · VirtualBox · GitHub
