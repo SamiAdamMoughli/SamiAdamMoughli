@@ -2,7 +2,7 @@
 IT & Cyber Security Enthusiast · CTF Player · Dual Study Applicant DHBW Mannheim
 ## About Me
 
-- 🔐 Focused on Cloud Security & Offensive Security
+- 🔐 Focused on Cloud Security & AI Security
 - 🎯 AWS Cloud Practitioner exam target: May 2026
 - 🧪 Active CTF player — CODE WHITE Applicants Challenge (3/X solved)
 - 📚 TryHackMe Pre-Security Path completed
