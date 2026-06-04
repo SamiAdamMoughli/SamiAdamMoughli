@@ -19,16 +19,6 @@ Self-directed AI + Cybersecurity engineer in training. Building toward Elite Red
 
 ---
 
-## Roadmap
-
-```
-Phase 1 (complete) → Python foundations, security tooling, networking, web
-Phase 2 (next)     → Linux mastery, exploit development, C2 frameworks
-Phase 3            → Cloud red teaming, AI/LLM offensive tooling
-```
-
----
-
 ## Portfolio
 
 Six weeks of security-focused Python tools — built in public, documented, tested.
