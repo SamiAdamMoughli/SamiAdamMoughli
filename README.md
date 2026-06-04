@@ -2,9 +2,12 @@
 
 <br>
 
-# Sami Adam Moughli
+![r00tnomade](./r00tnomade_wordmark_final.svg)
 
-*Self-directed Cybersecurity Engineer*
+<br>
+
+Self-directed AI + Cybersecurity Engineer  
+Building toward red teaming — exploit development, cloud offensive security, AI-powered attack tooling.
 
 <br>
 
@@ -21,7 +24,17 @@
 
 <br>
 
-[→ Portfolio](https://github.com/SamiAdamMoughli/week06-python-consolidation/tree/main/portfolio)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SamiAdamMoughli&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<br>
+
+Phase 1 — Python · security tooling · networking · web &nbsp;`complete`  
+Phase 2 — Linux mastery · exploit development · C2 frameworks &nbsp;`next`  
+Phase 3 — Cloud red teaming · AI/LLM offensive tooling &nbsp;`locked`
+
+<br>
+
+[→ portfolio](https://github.com/SamiAdamMoughli/week06-python-consolidation/tree/main/portfolio)
 
 <br>
 
