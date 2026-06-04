@@ -23,7 +23,7 @@ Self-directed Cybersecurity Engineer
 
 <br>
 
-[→ portfolio](https://github.com/SamiAdamMoughli/week06-python-consolidation/tree/main/portfolio)
+[→ View Portfolio](https://github.com/SamiAdamMoughli/week06-python-consolidation/tree/main/portfolio)
 
 <br>
 
