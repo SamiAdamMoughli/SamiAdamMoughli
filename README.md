@@ -4,4 +4,4 @@ Leveraging offensive security methodologies to understand and secure systems. Cu
 
 > “To know enemy, you must become your enemy.” — Sun Tzu
 
-[🔗 Portfolio](./portfolio)
+[→ View Portfolio](./portfolio)
