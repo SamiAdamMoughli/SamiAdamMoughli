@@ -2,7 +2,7 @@
 
 <br>
 
-![r00tnomade](./r00tnomade_wordmark_final.svg)
+![r00tnomade](.2b0ef8b9d41b428147b6caa1c16f698e_720w.gif)
 
 <br>
 
