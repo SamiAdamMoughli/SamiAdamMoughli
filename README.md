@@ -25,7 +25,7 @@
       <b>Always happy to help — feel free to reach out</b>
     </td>
     <td width="30%" valign="middle" align="center">
-      <img src="./image-aboutme.jpg" width="50%">
+      <img src="./image-aboutme.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -48,13 +48,13 @@
 
 <h2 align="center">statistics</h2>
 
-<table align="center" border="0" cellpadding="0" cellspacing="5" width="100%">
+<table align="center" width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SamiAdamMoughli&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" alt="Sami's GitHub Stats" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SamiAdamMoughli&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=400" alt="Sami's GitHub Stats" width="100%">
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiAdamMoughli&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak" width="100%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiAdamMoughli&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&card_width=400" alt="GitHub Streak" width="100%">
     </td>
   </tr>
 </table>
