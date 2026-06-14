@@ -12,18 +12,35 @@
 
 <h2 align="center">about me</h2>
 
-<p align="left">
-  <b>Hey! I'm Sami</b>,
-  <br><br>
-  a security student with an obsessive curiosity. I enjoy reading CVEs, breaking things apart to understand how they work, and building tools that actually do something useful. Right now I'm working on CloudSpill, a static IaC security scanner — my first serious project, built in public.
-  <br><br>
-  <b>Student, focused on security & low-level systems</b><br>
-  <b>Interested in offensive security, cloud, and red teaming</b><br>
-  <b>Vulnerability research & malware analysis on the side</b><br>
-  <b>Always happy to help — feel free to reach out</b>
-</p>
-
-<!-- add your graphic here -->
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <b>Hey! I'm Sami</b>,
+      <br><br>
+      a security student with an obsessive curiosity. I enjoy reading CVEs, breaking things apart to understand how they work, and building tools that actually do something useful. Right now I'm working on CloudSpill, a static IaC security scanner — my first serious project, built in public.
+      <br><br>
+      <b>Student, focused on security & low-level systems</b><br>
+      <b>Interested in offensive security, cloud, and red teaming</b><br>
+      <b>Vulnerability research & malware analysis on the side</b><br>
+      <b>Always happy to help — feel free to reach out</b>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢈⣾⣿⡇⠀⠀⠀⠀⠀⢀⣼⡇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⡇⠀⠀⠀⠀⣴⣿⣿⠃⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣇⠀⠀⢀⣾⣿⣿⣿⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢰⡿⠉⠀⡜⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀
+⠀⠀⠒⠒⠸⣿⣄⢀⣃⣿⣿⡟⠉⠉⠉⢹⣿⡇⠀⠀⠀⠀⠀
+⠀⠀⠚⠉⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠘⠠⠁⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠛⠛⠛⠛⠁⠀⠒⠤⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      </pre>
+    </td>
+  </tr>
+</table><!-- add your graphic here -->
 
 <br/>
 
