@@ -10,11 +10,11 @@
 
 <br/>
 
-<h2 align="center">about me</h2>
+<h2 align="left">about me</h2>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="70%" valign="top">
       <b>Hey! I'm Sami</b>,
       <br><br>
       a security student with an obsessive curiosity. I enjoy reading CVEs, breaking things apart to understand how they work, and building tools that actually do something useful. Right now I'm working on CloudSpill, a static IaC security scanner — my first serious project, built in public.
@@ -24,24 +24,34 @@
       <b>Vulnerability research & malware analysis on the side</b><br>
       <b>Always happy to help — feel free to reach out</b>
     </td>
-    <td width="45%" valign="middle" align="center">
+    <td width="30%" valign="middle" align="center">
       <pre>
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢈⣾⣿⡇⠀⠀⠀⠀⠀⢀⣼⡇⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⡇⠀⠀⠀⠀⣴⣿⣿⠃⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣇⠀⠀⢀⣾⣿⣿⣿⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢰⡿⠉⠀⡜⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀
-⠀⠀⠒⠒⠸⣿⣄⢀⣃⣿⣿⡟⠉⠉⠉⢹⣿⡇⠀⠀⠀⠀⠀
-⠀⠀⠚⠉⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠘⠠⠁⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠛⠛⠛⠛⠁⠀⠒⠤⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠐⢚⣿⣢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣷⣻⡑⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠚⣾⣿⣾⣧⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣷⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠘⣹⣷⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣷⣿⡿⣿⡿⡚⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢳⣿⣿⣿⣿⣿⣿⣷⣤⣤⣤⣤⣶⣶⣶⣶⣦⣶⣶⣶⣶⣦⣿⣿⣻⣿⣿⣿⣷⣇⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠸⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⡿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⠿⠟⠿⢿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣟⡁⠀⡀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⠉⠁⢀⠀⠀⠀⢹⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⢀⠀⠀⠀⠀⠀⢼⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣮⣀⣤⣠⣀⡤⢾⣿⣿⣿⣿⣿⣿⣿⡿⢀⣔⣀⣀⣠⣴⣾⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠠⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣼⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠠⣿⣿⢿⡯⣜⠻⣿⣿⣿⣿⣿⣿⡟⠙⢿⠿⢿⡟⠋⠙⣹⣿⣿⣿⣿⣿⣿⢣⠕⡾⢿⡧⣗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢻⣯⡝⣙⡊⠵⢛⣿⣿⣿⣿⣿⣿⣦⡀⠁⠀⠀⣤⣾⣿⣿⣿⣿⣿⣯⡜⢃⣞⣑⠻⣇⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣨⣿⣿⡷⣍⣉⢺⣿⣿⣿⣿⣿⣿⣿⠷⡄⢀⠾⢿⢿⢿⢿⢿⡿⠾⡜⣓⣊⢤⡤⢿⣿⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣀⣤⣼⣿⣿⣿⣿⣿⣿⣦⢰⡱⠲⠞⠡⠼⡉⠒⠁⠀⠒⠈⠎⠢⠊⠑⣋⠋⢀⢅⣴⣟⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢀⣤⣿⣿⣿⣿⣿⣿⣿⣼⡻⢿⣿⢿⡀⠜⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⠀⠀⡘⢼⠿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣅⢫⢉⡀⠀⠀⠠⠀⠠⠠⡀⢠⡀⠀⠀⠀⠀⠀⢈⡸⣮⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣯⢷⣢⢆⡀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⡠⢐⢮⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⡀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣤⡰⣀⠀⠀⠀⠀⠀⡀⢀⣄⣡⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⡄⠀⠀⠀⠀
       </pre>
     </td>
   </tr>
-</table><!-- add your graphic here -->
-
+</table>
 <br/>
 
 <h2 align="center">languages</h2>
@@ -76,8 +86,4 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiAdamMoughli&theme=github-dark&bg_color=0d1117&hide_border=true" alt="Sami's Contribution Graph" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/SamiAdamMoughli/SamiAdamMoughli/blob/output/github-contribution-grid-snake.svg"/>
 </p>
