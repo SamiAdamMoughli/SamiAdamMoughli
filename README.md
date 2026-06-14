@@ -57,14 +57,14 @@
 <h2 align="center">languages</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-black?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/RUST-black?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/GO-black?style=flat-square&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/ARM64_ASM-black?style=flat-square&logoColor=white" alt="ARM64 Assembly">
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=python&logoColor=white&logoSize=auto" alt="Python" height="150">
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=c&logoColor=white&logoSize=auto" alt="C" height="150">
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=cplusplus&logoColor=white&logoSize=auto" alt="C++" height="150">
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=rust&logoColor=white&logoSize=auto" alt="Rust" height="150">
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=go&logoColor=white&logoSize=auto" alt="Go" height="150">
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=javascript&logoColor=white&logoSize=auto" alt="JavaScript" height="150">
+  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=html5&logoColor=white&logoSize=auto" alt="HTML5" height="150">
+  <img src="https://img.shields.io/badge/ARM64_ASM-black?style=flat-square&logoColor=white" alt="Assembly" height="150">
 </p>
 
 <br/>
@@ -85,5 +85,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiAdamMoughli&theme=github-dark&bg_color=0d1117&hide_border=true" alt="Sami's Contribution Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiAdamMoughli&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true" alt="Sami's Contribution Graph" width="100%">
 </p>
