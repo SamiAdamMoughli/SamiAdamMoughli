@@ -25,9 +25,7 @@
       <b>Always happy to help — feel free to reach out</b>
     </td>
     <td width="30%" valign="middle" align="center">
-      <pre>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img src="./image-aboutme.jpg" width="50%">
-      </pre>
+      <img src="./image-aboutme.jpg" width="50%">
     </td>
   </tr>
 </table>
