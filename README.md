@@ -57,8 +57,6 @@
                 <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=SamiAdamMoughli&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=400" alt="Sami's GitHub Stats" width="100%">
     </td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiAdamMoughli&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=10&card_width=800" alt="Top Languages" width="80%">
     </p>
 
   </tr>
