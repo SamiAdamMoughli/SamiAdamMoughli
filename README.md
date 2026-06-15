@@ -32,20 +32,15 @@
 <br/>
 
 <h2 align="center">languages</h2>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=python&logoColor=white&logoSize=auto" alt="Python" height="150">
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=c&logoColor=white&logoSize=auto" alt="C" height="150">
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=cplusplus&logoColor=white&logoSize=auto" alt="C++" height="150">
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=rust&logoColor=white&logoSize=auto" alt="Rust" height="150">
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=go&logoColor=white&logoSize=auto" alt="Go" height="150">
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=javascript&logoColor=white&logoSize=auto" alt="JavaScript" height="150">
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=html5&logoColor=white&logoSize=auto" alt="HTML5" height="150">
-  <img src="https://img.shields.io/badge/ARM64_ASM-black?style=flat-square&logoColor=white" alt="Assembly" height="150">
+  <img src="https://img.shields.io/badge/--ffffff?style=flat-square&logo=python&logoColor=black" width="8%">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/--ffffff?style=flat-square&logo=c&logoColor=black" width="8%">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/--ffffff?style=flat-square&logo=cplusplus&logoColor=black" width="8%">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/--ffffff?style=flat-square&logo=rust&logoColor=black" width="8%">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/--ffffff?style=flat-square&logo=go&logoColor=black" width="8%">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/--ffffff?style=flat-square&logo=javascript&logoColor=black" width="8%">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/--ffffff?style=flat-square&logo=html5&logoColor=black" width="8%">
 </p>
-
-<br/>
-
 <h2 align="center">statistics</h2>
 
 <table align="center" width="100%" border="0" cellpadding="5" cellspacing="0">
