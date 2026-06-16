@@ -41,9 +41,6 @@
   <img src="https://img.shields.io/badge/--ffffff?style=flat-square&logo=javascript&logoColor=black" width="8%">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/--ffffff?style=flat-square&logo=html5&logoColor=black" width="8%">
 </p>
-<p align="center">
- <img src="mTKep38.gif" alt="IMAGE" width="100%"></a>
-</p>
 
 <h2 align="center">statistics</h2>
 
