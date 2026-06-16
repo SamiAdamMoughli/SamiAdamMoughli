@@ -8,7 +8,7 @@
   <a href=" https://discord.com/users/1485703538381160508"><img src="https://img.shields.io/badge/DISCORD-black?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-<br/>mTKep38.gif
+<br/>
 
 <h2 align="left">about me</h2>
 
