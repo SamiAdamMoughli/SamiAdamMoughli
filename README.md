@@ -8,7 +8,7 @@
   <a href=" https://discord.com/users/1485703538381160508"><img src="https://img.shields.io/badge/DISCORD-black?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-<br/>
+<br/>mTKep38.gif
 
 <h2 align="left">about me</h2>
 
@@ -41,6 +41,10 @@
   <img src="https://img.shields.io/badge/--ffffff?style=flat-square&logo=javascript&logoColor=black" width="8%">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/--ffffff?style=flat-square&logo=html5&logoColor=black" width="8%">
 </p>
+<p align="center">
+ <img src="mTKep38.gif" alt="IMAGE" width="100%"></a>
+</p>
+
 <h2 align="center">statistics</h2>
 
 <table align="center" width="100%" border="0" cellpadding="5" cellspacing="0">
