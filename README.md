@@ -17,7 +17,7 @@
     <td width="70%" valign="top">
       <b>Hey! I'm Sami</b>,
       <br><br>
-      a security student with an obsessive curiosity. I enjoy reading CVEs, breaking things apart to understand how they work, and building tools that actually do something useful. Right now I'm working on CloudSpill, a static IaC security scanner — my first serious project, built in public.
+      a security student with an obsessive curiosity. I enjoy reading CVEs, breaking things apart to understand how they work, and building tools that actually do something useful.
       <br><br>
       <b>* Student, focused on security & low-level systems</b><br>
       <b>* Interested in offensive security, cloud, and red teaming</b><br>
