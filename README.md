@@ -15,14 +15,14 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="70%" valign="top">
-      <b>Hey! I'm Sami</b>,
+      <b>Hey! I'm Sami.</b>,
       <br><br>
-      a security student with an obsessive curiosity. I enjoy reading CVEs, breaking things apart to understand how they work, and building tools that actually do something useful.
+      Security student and counter-surveillance enthusiast with a sharp eye for breaking systems and building robust defenses. I dive deep into CVEs, reverse-engineer complex targets, and develop practical offensive tools that deliver results.
       <br><br>
-      <b>* Student, focused on security & low-level systems</b><br>
-      <b>* Interested in offensive security, cloud, and red teaming</b><br>
-      <b>* Vulnerability research & malware analysis on the side</b><br>
-      <b>* Always happy to help — feel free to reach out</b>
+      <b>* Specializing in red teaming, cloud security, and low-level systems</b><br>
+      <b>* Hands-on vulnerability research and malware analysis</b><br>
+      <b>* Passionate about counter-surveillance techniques and privacy</b><br>
+      <b>* Always open to meaningful conversations or collaborations — feel free to reach out.</b>
     </td>
     <td width="30%" valign="middle" align="center">
       <img src="./95e853de9215946f6d0e19b7e148aac7.jpg" width="100%">
