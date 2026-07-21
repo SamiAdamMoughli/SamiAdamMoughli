@@ -25,7 +25,7 @@
       <b>* Always open to meaningful conversations or collaborations — feel free to reach out.</b>
     </td>
     <td width="30%" valign="middle" align="center">
-      <img src="./95e853de9215946f6d0e19b7e148aac7.jpg" width="100%">
+      <img src="./2f14059370f0f119fc38ea4907ec26d7.gif" width="100%">
     </td>
   </tr>
 </table>
