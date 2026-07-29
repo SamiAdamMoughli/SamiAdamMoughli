@@ -13,7 +13,7 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="70%" valign="top">
-      <b>Hey! I'm Sami.</b>
+      <b>Hey! I'm r00tnomade.</b>
       <br><br>
       Security student and counter-surveillance enthusiast with a sharp eye for breaking systems and building robust defenses. I dive deep into CVEs, reverse-engineer complex targets, and develop practical offensive tools that deliver results.
       <br><br>
