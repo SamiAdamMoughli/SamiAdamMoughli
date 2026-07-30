@@ -49,9 +49,9 @@
     </td>
     <p align="center">
                 <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SamiAdamMoughli&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=400" alt="Sami's GitHub Stats" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=r00tnomade&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=400" alt="r00t's GitHub Stats" width="100%">
     </td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiAdamMoughli&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=10&card_width=800&hide=css" alt="Top Languages" width="80%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tnomade&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=10&card_width=800&hide=css" alt="Top Languages" width="80%">
     </p>
 
   </tr>
@@ -60,5 +60,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiAdamMoughli&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&hide_private=true" alt="Sami's Contribution Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r00tnomade&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&hide_private=true" alt="r00t's Contribution Graph" width="100%">
 </p>
