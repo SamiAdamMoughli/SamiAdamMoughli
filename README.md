@@ -15,7 +15,7 @@
     <td width="70%" valign="top">
       <b>Hey! I'm r00tnomade.</b>
       <br><br>
-      Security student and counter-surveillance enthusiast with a sharp eye for breaking systems and building robust defenses. I dive deep into CVEs, reverse-engineer complex targets, and develop practical offensive tools that deliver results.
+      Security student and opsec enthusiast with a sharp eye for breaking systems and building robust defenses. I dive deep into CVEs, reverse-engineer complex targets, and develop practical offensive tools that deliver results.
       <br><br>
       <b>* Specializing in red teaming, cloud security, and low-level systems</b><br>
       <b>* Hands-on vulnerability research and malware analysis</b><br>
